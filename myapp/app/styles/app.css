@@ -1,0 +1,80 @@
+body {
+  background: url("../images/background2.jpg");
+}
+
+.body-shadow {
+  position: absolute;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 0%;
+  background: white;
+  width: 88.8%;
+  height:490px;
+  opacity: 0.5; 
+  z-index: -1;
+}
+
+.body-content {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5%;
+  font-family: "Open Sans", sans-serif;
+  z-index: 2;
+}
+
+.header {
+  background: #fafafa;
+  height: 40px;
+  width: 100%;
+}
+
+.check_login {
+  cursor: pointer;
+}
+
+.uncheck_login {
+  opacity: 0;
+}
+
+.uncheck_register {
+  opacity: 0;
+}
+
+.check_register {
+  cursor: pointer;
+}
+
+#login {
+  float:right;
+  margin-top: 6px;
+  margin-right: 8px;
+  font-size: 18px;
+  /*box-shadow: 0px 0px 5px black;*/
+  /*text-shadow: 2px 2px 2px white, 1px 1px 1px blue;*/
+}
+
+#register {
+  float: right;
+  margin-right: 8px;
+  margin-top: 6px;
+  font-size: 18px;
+}
+
+#turnback {
+  float: left;
+  margin-right: 8px;
+  margin-top: 4px;
+  cursor: pointer;
+  height:40px;
+  width: 40px;
+}
+
+#turnback :hover{
+  background: blue;
+}
+
+.container {
+  height: 450px;
+  width:100%;
+}
+

@@ -1,0 +1,92 @@
+[
+	{
+		"name": "最好吃饭馆",
+		"goodmark" : 1,
+		"badmark": 0,
+		"middlemark": 0,
+		"mark": 9.5,
+		"picture": "../images/picture1.jpg",
+		"visited": [
+			{
+				"name":"local",
+				"mark":9.5,
+				"typeofmark":1
+			}
+		]
+	},
+		{
+		"name": "最好吃饭店",
+		"goodmark" : 1,
+		"badmark": 0,
+		"middlemark": 0,
+		"mark": 9.5,
+		"picture": "../images/picture2.jpg",
+		"visited": [
+			{
+				"name":"local",
+				"mark":9.5,
+				"typeofmark":1
+			}
+		]
+	},
+		{
+		"name": "最好吃菜馆",
+		"goodmark" : 1,
+		"badmark": 0,
+		"middlemark": 0,
+		"mark": 9.5,
+		"picture": "../images/picture3.jpg",
+		"visited": [
+			{
+				"name":"local",
+				"mark":9.5,
+				"typeofmark":1
+			}
+		]
+	},
+		{
+		"name": "最好吃面铺",
+		"goodmark" : 1,
+		"badmark": 0,
+		"middlemark": 0,
+		"mark": 9.5,
+		"picture": "../images/picture4.jpg",
+		"visited": [
+			{
+				"name":"local",
+				"mark":9.5,
+				"typeofmark":1
+			}
+		]
+	},
+		{
+		"name": "最好吃火锅",
+		"goodmark" : 1,
+		"badmark": 0,
+		"middlemark": 0,
+		"mark": 9.5,
+		"picture": "../images/picture1.jpg",
+		"visited": [
+			{
+				"name":"local",
+				"mark":9.5,
+				"typeofmark":1
+			}
+		]
+	},
+		{
+		"name": "最好吃小店",
+		"goodmark" : 1,
+		"badmark": 0,
+		"middlemark": 0,
+		"mark": 9.5,
+		"picture": "../images/picture1.jpg",
+		"visited": [
+			{
+				"name":"local",
+				"mark":9.5,
+				"typeofmark":1
+			}
+		]
+	}
+]
