@@ -1,7 +1,8 @@
-´ò¿ª²½Öè£º
-1.Ê×ÏÈ´ò¿ªganache
-2.ÔÚmyappÀïÃæ½«buildÎÄ¼ş¼ĞÉ¾µô
-3.ÔÚÖÕ¶Ë·Ö±ğÊäÈëtruffle compile
+(homework in school)
+æ‰“å¼€æ­¥éª¤ï¼š
+1.é¦–å…ˆæ‰“å¼€ganache
+2.åœ¨myappé‡Œé¢å°†buildæ–‡ä»¶å¤¹åˆ æ‰
+3.åœ¨ç»ˆç«¯åˆ†åˆ«è¾“å…¥truffle compile
 	           truffle migrate
 	           npm run dev
-4.ÔÚä¯ÀÀÆ÷´ò¿ªlocalhost:8080
+4.åœ¨æµè§ˆå™¨æ‰“å¼€localhost:8080
